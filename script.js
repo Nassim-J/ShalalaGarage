@@ -1,5 +1,5 @@
 // Define the two translations
-const translation2 = "كهرباء السيارة, تغيير الزيت, تكييف الهواء, تعبئة الغاز, اكسسوارات, راديو وكاسيت";
+const translation2 = "كهرباء سيارات, تغيير زيت, تكييف هواء, تعبئة غاز, اكسسوارات, راديو ";
 const translation1 = "Car electrics, Oil change, Air conditioning,  Gas filling,  Accessories, Radio and Cassette";
 
 // Get the text to be translated
